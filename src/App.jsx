@@ -8,7 +8,7 @@ function App() {
   <h1>Hola mundo</h1>
   <Bienvenidos></Bienvenidos>
   {/*<Bienvenidos/>*/}
-  <TeoriaComponente/>
+  <TeoriaComponente comision={'web 13'}/>
   </main>);
 }
 
